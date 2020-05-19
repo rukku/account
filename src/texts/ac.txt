@@ -1,0 +1,5 @@
+⛄ My aircon consumes {1.00-2.00:ac_kwh} kW per hour). If I use it for {1-24:ac_daily} hours per day ⌚ at a cost of PhP {4-10:ac_cost} per kWh, it will contribute approximately
+PhP{=
+    ac_daily * ac_cost * ac_kwh * 30 * 1.00
+:total} to my monthly power bill 💸
+
